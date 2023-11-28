@@ -2,11 +2,13 @@
 Sebuah dashboard sederhana untuk keperluan course Dicoding menggunakaan bike-sharing dataset
 
 # Setup environment
+IDE yang digunakan untuk mengembangkan notebook.py adalah Jupyter Notebook
 Library pada notebook.ipynb
 * import pandas as pd              -> untuk DataFrame
 * import seaborn as sns            -> untuk Grafik
 * import matplotlib.pyplot as plt  -> untuk Grafik
 
+IDE yang digunakan untuk mengembangkan dashboard.py adalah PyCharm
 Library pada dashboard.py
 * import pandas as pd               -> untuk DataFrame
 * import plotly.express as px       -> untuk Pie Chart
