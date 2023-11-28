@@ -2,7 +2,17 @@
 Sebuah dashboard sederhana untuk keperluan course Dicoding menggunakaan bike-sharing dataset
 
 # Setup environment
-setup environment dapat dilakukan sesuai dengan requirement.txt
+Library pada dashboard.py
+* import pandas as pd
+* import plotly.express as px
+* import matplotlib.pyplot as plt
+* import streamlit as st
+* from PIL import Image
+
+Library pada notebook.ipynb
+* import pandas as pd
+* import seaborn as sns
+* import matplotlib.pyplot as plt
 
 # Run streamlit app
 streamlit run dashboard.py
